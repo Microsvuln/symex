@@ -1,2 +1,2 @@
 # symex
-A practical dynamic symbolic execution based on LLVM for fuzzing
+A practical dynamic symbolic execution engine based on LLVM for fuzzing
